@@ -1,4 +1,4 @@
-# Single server with infinite capacity (M/M/1):(oo/FIFO)
+# EXP-4 Single server with infinite capacity (M/M/1):(oo/FIFO)
 # Developed by: Kailash Kumar S
 # Register number: 212223220041
 ## Aim :
